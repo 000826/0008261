@@ -1,0 +1,62 @@
+{
+	"index.html": {
+		"resources": [
+			"img1/picture31.png",
+			"img1/picture12.jpg",
+			"img1/picture1.jpg",
+			"css/animate.css",
+			"js/wow.js",
+			"img1/picture7.png",
+			"img1/picture22.png",
+			"img1/picture26.jpg",
+			"fonts/glyphicons-halflings-regular.woff2",
+			"img1/picture25.png",
+			"img1/picture2.jpg",
+			"css/bootstrap.css",
+			"img1/logo lg.png",
+			"js/jquery-1.12.4.js",
+			"img1/picture4.png",
+			"img1/picture20.jpg",
+			"img1/picture30.png",
+			"img1/picture33.png",
+			"img1/logo xs.png",
+			"img1/picyure35.jpg",
+			"css/page1.css",
+			"img1/picture1.png",
+			"img1/背景视频.mp4",
+			"img1/picture23.png",
+			"img1/picture3.jpg",
+			"img1/picture11.jpg",
+			"js/page1.js",
+			"img1/picture14.png",
+			"img1/picture6.png",
+			"img1/picture15.png",
+			"img1/picture29.png",
+			"img1/picture13.jpg",
+			"img1/picture10.jpg",
+			"img1/picture16.jpg",
+			"img1/picture5.png",
+			"img1/picture8.png",
+			"js/bootstrap.js",
+			"img1/picture28.png",
+			"img1/picture34.png",
+			"page2.html"
+		],
+		"refer": [
+			"page2.html"
+		]
+	},
+	"page2.html": {
+		"resources": [
+			"img2/picture7.jpg",
+			"img2/picture3.jpg",
+			"css/bootstrap.css",
+			"img2/picture1.jpg",
+			"img2/picture6.jpg",
+			"img2/picture2.jpg",
+			"css/animate.css",
+			"css/page2.css",
+			"js/page2.js"
+		]
+	}
+}
